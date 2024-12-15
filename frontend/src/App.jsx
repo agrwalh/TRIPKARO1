@@ -23,7 +23,7 @@ import SignupForm from "./components/auth/SignupForm.jsx";
 function App() {
   useEffect(() => {
     document.title = "TripTales ✈️"; // Set the title here
-  }, []);
+     }, []);
 
   return (
 
